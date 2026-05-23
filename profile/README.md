@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://www.gocoldport.com/">
-    <img src="https://www.gocoldport.com/insights_hero.png" alt="Coldport — Port-Adjacent Cold Storage Infrastructure" width="100%" />
   </a>
   <br />
   <p><b>Building the next generation of port-adjacent cold storage infrastructure across America's most strategic gateway cities.</b></p>
